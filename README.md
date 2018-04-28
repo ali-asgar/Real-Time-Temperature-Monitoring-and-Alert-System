@@ -1,7 +1,7 @@
 # Real-Time-Temperature-Monitoring-and-Alert-System
 IOT based monitoring system with real time alert via call using GSM module through FRDM KL25z with NRF module and Wi-Fi module.
 
-### The aim of this project is to:
+### The Aim of This Project is to:
 
 •	Notify residence and neighbours for FIRE ALERT through SMS and Call.
 •	Help to prevent any major loss of life or property.
