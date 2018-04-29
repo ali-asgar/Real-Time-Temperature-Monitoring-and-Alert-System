@@ -8,7 +8,7 @@ IOT based monitoring system with real time alert via call using GSM module throu
 •	Overcome the issue of resident outside the apartment knowing about the situation very late, could lead to loss of life or more damage to property.
 •	Notify the neighbours to leave the building immediately, so they can carry their important and personal belongings.
 
-### Hardware Includes:
+### Hardware:
 
 •	FRDM KL25z - 2 Boards with cables
 •	Arduino Uno - 1 Board with cable
@@ -22,7 +22,7 @@ IOT based monitoring system with real time alert via call using GSM module throu
 •	SIM card
 •	
 
-### Software Includes:
+### Software:
 
 •	ThingSpeak – open source Internet of Things (IoT) application
 •	ARMmbed - Embedded Progamming Platform
@@ -30,7 +30,7 @@ IOT based monitoring system with real time alert via call using GSM module throu
 •	CoolTerm - Serial Port Terminal
 
 This project is divided into three parts:
-1. Senssor and Transmitter part.
+1. Sensor and Transmitter part.
 2. Receiving and Wi-Fi part.
 3. Alerting using GSM module part.
 
