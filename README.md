@@ -29,4 +29,9 @@ IOT based monitoring system with real time alert via call using GSM module throu
 •	Arduino IDE
 •	CoolTerm - Serial Port Terminal
 
+This project is divided into three parts
+1. Senssor and Transmitter part
+2. Receiving and Wi-Fi part
+3. Alerting using GSM module part
+Each part has its own folder and own code.
 
